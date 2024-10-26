@@ -6,4 +6,5 @@ const Storage = new mongoose.Schema({
     file: {type: String, required: true}
 })
 
+
 export default mongoose.model('Storage', Storage)

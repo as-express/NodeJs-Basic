@@ -11,5 +11,10 @@
 - ### Native NodeJs
 - ### Tests Mocha-Chai
 - ### Websokets
-- ### Multer 
+- ### Multer
+- ### NodeJs Streams
+- ### Winston logs
+- ### Postgresql rest-api
+
+
 - ...
